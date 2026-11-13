@@ -1,0 +1,6 @@
+<plc name="station1">
+    <marque>Siemens simatic</marque>
+    <cpu>S7-3152DP/PN</cpu>
+    <modulesI espace="0...3">DI</modulesI>
+    <modulesO espace="4...7">DO</modulesO>
+</plc>
